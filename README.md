@@ -1,5 +1,5 @@
 # CareerHigh-App
-This android app shows content of a website www.careerhigh.in for all new posts on website.
+This android app shows content of a website careerhigh.in for all new posts on website.
 
 **If you enjoy this project, please consider [supporting me](https://www.paypal.me/vinaysomawat) to continue developing and maintaining it.**
 
